@@ -1,6 +1,8 @@
 package package2;
 
 import package1.A;
+
+//public void method(){}
 //public class C {
 //    public void method(){
 ////        A 클래스는 접근제한자가 public으로 설정되어야 A 클래스 타입의 변수는 생성할 수 있음.
